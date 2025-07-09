@@ -1,0 +1,2 @@
+This is the new content of the file.
+Everything previously here has been replaced.
